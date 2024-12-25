@@ -1,6 +1,6 @@
 ![Header](https://i.imgur.com/K54NkJW.png)
 <div style="overflow: hidden; display: flex; flex-direction: row-reverse; align-items: center;">
-    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" alt="Image Description" style="width: 500px; margin-left: 20px;">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" alt="Image Description" style="width: 400px; margin-left: 20px;">
     <div>
         <h1 align="center">Hi 👋, I'm Gungun Sharma</h1>
         <h3 align="center">"Crafting innovative tech solutions | ML enthusiast, Python coder, and Power BI explorer 📊"</h3>
