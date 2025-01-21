@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sharmagungun970@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JawYWIYRC15bx91l4A2gDq_zdaeKapHH/view?usp=drive_link](https://drive.google.com/file/d/1JawYWIYRC15bx91l4A2gDq_zdaeKapHH/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tVovy80SYTIw-5_2sA8KpkvEoz6BiSsx/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
