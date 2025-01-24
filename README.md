@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **tensorflow,deeplearning**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [link](https://gungun2233.github.io/my-portfolio/)
 
 - 💬 Ask me about **powerbi , ML , python**
 
