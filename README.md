@@ -1,4 +1,4 @@
-![Header](https://imgur.com/9XAhuXl)
+![Header](https://i.imgur.com/9XAhuXl.png)
 <div style="overflow: hidden; display: flex; flex-direction: row-reverse; align-items: center;">
     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" alt="Image Description" style="width: 400px; margin-left: 20px;">
     <div>
