@@ -42,6 +42,16 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+</a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/raw/main/hf-logo-with-title.svg" alt="huggingface" width="80" height="40"/>
+</a>
+
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gungun2233&show_icons=true&locale=en&layout=compact" alt="gungun2233" /></p>
