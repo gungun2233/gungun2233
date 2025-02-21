@@ -60,6 +60,10 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" width="40" height="40"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/512px-Artificial_neural_network.svg.png" alt="Neural Network" width="40" height="40"/>
+</a>
+
 
  </p>
 
