@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **sharmagungun970@gmail.com**
 
-- 📄 Know about my experiences  [ My resume] (https://drive.google.com/file/d/1SkxdvwApAANPAMoQNMPYEhtAZLOXzHna/view?usp=drive_link)
+-<p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1SkxdvwApAANPAMoQNMPYEhtAZLOXzHna/view?usp=drive_link" target="_blank"><b>Click here to view my resume</b></a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
